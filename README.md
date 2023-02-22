@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Caio Furlan, tenho 16 anos e estou fazendo curso técnico 2º período.
+- 👋 Olá, eu sou Caio Furlan, tenho 17 anos e estou fazendo curso técnico 3º período.
 - 👀 Estou interessado em ingressar na área front-end como desenvolvedor web.
 - 🌱 Estou aprendendo HTML, CSS, JS, Python, PHP, MySQL.
 - 💞️ Procuro colaborar com soluções de problemas e ajudar com idéias significativas para o projeto.
