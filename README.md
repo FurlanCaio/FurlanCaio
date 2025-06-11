@@ -1,4 +1,4 @@
-- 👀 Estou interessado em ingressar na área front-end
+- 👀 Estou interessado em ingressar na área back-end
 - 🌱 Estou aprendendo HTML, CSS, JS, Python, PHP, MySQL.
 - 💞️ Procuro colaborar com soluções de problemas e ajudar com idéias significativas para o projeto.
 - 📫 Entre em contato comigo pelo meu E-mail: contato.cfurlan@gmail.com
