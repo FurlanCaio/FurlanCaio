@@ -1,7 +1,7 @@
-👀 Estou interessado na área Full Stack
-🌱 Estou aprendendo JavaScript, Vue.js, Node.js, MongoDB e SQL Server
-💞️ Procuro colaborar com soluções de problemas e contribuir com ideias valiosas para projetos
-📫 Entre em contato comigo pelo e-mail: contato.cfurlan@gmail.com
+- 👀 Estou interessado na área Full Stack
+- 🌱 Estou aprendendo JavaScript, Vue.js, Node.js, MongoDB e SQL Server
+- 💞️ Procuro colaborar com soluções de problemas e contribuir com ideias valiosas para projetos
+- 📫 Entre em contato comigo pelo e-mail: contato.cfurlan@gmail.com
 
 <div align="center">
   <a href="https://github.com/FurlanCaio">
