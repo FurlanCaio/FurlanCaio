@@ -1,7 +1,7 @@
-- 👀 Estou interessado na área Full Stack
-- 🌱 Estou aprendendo JavaScript, Vue.js, Node.js, MongoDB e SQL Server
-- 💞️ Procuro colaborar com soluções de problemas e contribuir com ideias valiosas para projetos
-- 📫 Entre em contato comigo pelo e-mail: contato.cfurlan@gmail.com
+💻 Full Stack Engineer passionate about building scalable, high-performance web applications.
+🚀 Experienced with Node.js, Vue.js, MongoDB, MySQL, and RabbitMQ.
+🔧 Focused on clean architecture, efficient APIs, and seamless user experiences.
+📈 Always learning, improving, and exploring new technologies.
 
 <div align="center">
   <a href="https://github.com/FurlanCaio">
